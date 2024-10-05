@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Documents</title>
+</head>
+<body>
+    <h1>Available PDF Documents</h1>
+    <ul>
+        <li><a href="recognition-certificate.pdf" target="_blank">Recognition Certificate</a></li>
+        <li><a href="recognition-certificate (1).pdf" target="_blank">Another Certificate</a></li>
+    </ul>
+</body>
+</html>
